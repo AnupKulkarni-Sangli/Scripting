@@ -1,7 +1,8 @@
 echo "We are trying this practical from linux EC2"
 echo "We are from batch-33 and learning git/gihub"
-echo "I have completed Docker, Git and Ansible practicals"
 echo "Thank you Young-minds for the support and guidance"
-echo "We are learning branching and merging in Master"
+echo "I have covered Jenkins, CI-CD Pipeline & Github Actions practicals"
+echo "I need to learn now Terraform and Kubernetes"
+echo "I will try to get a new job in Devops and grow my career"
 
 
