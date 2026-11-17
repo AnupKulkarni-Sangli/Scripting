@@ -5,6 +5,7 @@ echo "I need to complete Docker, Git, Jenkins, Ansible, Kubernetes and Terraform
 echo "I need to prepare for the DevOps interview and get a job in DevOps field"
 echo "I am very passionate about DevOps and want to learn more about it"
 echo "I want to see my future in Devops and go for overseas job in DevOps field"
+echo "I want to get a job in DevOps field and become a successful DevOps Engineer"
 
 
 
